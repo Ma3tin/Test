@@ -1,0 +1,52 @@
+#btn {
+    background-color: crimson;
+    border: none;
+    border-radius: 2px;
+    width: 125px;
+    height: 50px;
+    font-size: 25px;
+    font-family: Amiri, serif;
+}
+#btn:hover {
+    opacity: 85%;
+}
+
+
+#collapseOne{
+    display: none;
+    background-color: #e6e6e6;
+    border: #cecece 1px solid;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 150px;
+    position: absolute;
+    margin-top: 50px;
+    z-index: 1;
+}
+
+.card-body {
+    padding: 8px;
+    font-family: Amiri, serif;
+}
+
+.card-body-link {
+    padding: 8px;
+    font-family: Amiri, serif;
+    border-top: #cecece 1px solid;
+}
+.text-down {
+    position: absolute;
+    margin-top: 65px
+}
+
+.mb-0 {
+    margin: 0;
+
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+
+}
